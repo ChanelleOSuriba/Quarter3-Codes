@@ -1,4 +1,4 @@
-names = ["Me", "Lia", "Jake"]
+names = ["My", "Lia's", "Jake's"]
 
 steps = [
     [4500, 5200, 4800, 5000, 5300],
