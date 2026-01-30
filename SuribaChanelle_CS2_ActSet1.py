@@ -1,0 +1,9 @@
+student = {}
+student["name"] = input("Enter your name: ")
+student["age"] = input("Enter your age: ")
+student["favorite_subject"] = input("Enter your favorite subject: ")
+print("\nStudent Record:")
+print("Name:", student["name"])
+print("Age:", student["age"])
+print("Favorite Subject:", student["favorite_subject"])
+
